@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick[minecraft:item_name="High-explosive Grenade",custom_data={item:grenade}]
