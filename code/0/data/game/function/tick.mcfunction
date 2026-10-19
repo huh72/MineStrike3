@@ -1,0 +1,1 @@
+execute if score round.state game matches 0 as @a[tag=ct] at @s at @n[tag=spawnpoint, tag=ct] run tp @s ~ ~ ~
