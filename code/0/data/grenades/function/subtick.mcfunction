@@ -1,0 +1,2 @@
+execute if score @s right_click matches 1.. if items entity @s weapon.mainhand carrot_on_a_stick[item_name="Incindiery Grenade"] anchored eyes run function grenades:incindiery/throw
+execute if score @s right_click matches 1.. if items entity @s weapon.mainhand carrot_on_a_stick[item_name="High-explosive Grenade"] anchored eyes run function grenades:he/throw

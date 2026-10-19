@@ -1,7 +1,6 @@
 {
   "pack": {
-    "description": ".",
-    "min_format": 121,
-    "max_format": 121
+    "description": "1",
+    "pack_format": 80
   }
 }
