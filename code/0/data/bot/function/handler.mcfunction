@@ -1,0 +1,1 @@
+data modify entity @s wander_target set from entity @p[distance=..16,predicate=!guns:issneaking] Pos
