@@ -1,0 +1,1 @@
+scoreboard players set raycast.maxIterationsDroneDamage g 8
