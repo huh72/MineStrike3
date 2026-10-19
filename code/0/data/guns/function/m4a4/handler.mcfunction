@@ -17,4 +17,4 @@ execute if score @s ammo matches -1 run return fail
 
 #g fire func call
 execute if score @s shot_cd matches 0 if score @s burst_left matches 1.. run return run function guns:m4a4/fire
-execute if score @s shot_cd matches 0 if score @s right_click matches 1.. run function guns:m4a4/fire
+execute if score @s[tag=!defusing] shot_cd matches 0 if score @s right_click matches 1.. run function guns:m4a4/fire
