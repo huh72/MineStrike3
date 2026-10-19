@@ -1,0 +1,9 @@
+{
+    "mc-dp-icons.tickFunctionNames": [
+        "turret/tick",
+        "bot/handler",
+        "function/tick",
+        "function/handler"
+    ],
+    "mc-dp-icons.crownedTickFunctionsNames": []
+}
